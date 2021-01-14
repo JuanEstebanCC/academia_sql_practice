@@ -1,3 +1,3 @@
 CREATE DATABASE academia;
 DROP  TABLE academia;
-SHOW databases;
+SHOW databases;p
